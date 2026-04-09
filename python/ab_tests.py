@@ -57,7 +57,7 @@ print(f'P-Value: {p_value}')
 if p_value < 0.05:
     print("We reject null hypothesis. There is a significant difference between the two groups.")
 
-
+# Додавання
 #%%
 import seaborn as sns
 
